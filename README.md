@@ -8,13 +8,10 @@
 
 | Category | Technology | Level |
 |----------|------------|-------|
-| **Game Engines** | Unity (VR Engineering, Level Design) | 🟡 Basic |
+| **Game Engines** | Unity (VR Engineering, Level Design) | ⚙️ Compitent |
 | **3D Modeling** | Blender (Modeling, Shading) | 🟡 Basic |
 | **Programming** | C# | 🟡 Basic |
-| | JavaScript (Three.js) | 🟡 Basic |
-| | Python | 🟡 Basic |
-| | C | 🟡 Basic |
-| | Java | 🟡 Basic |
+| **Other**| JavaScript/Python/C/Java (Three.js) | 🟡 Basic |
 
 > 🟡 Basic experience / Still learning — actively improving every day.
 
