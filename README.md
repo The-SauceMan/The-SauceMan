@@ -36,7 +36,7 @@
 ## 📫 Let's Connect
 
 - 📍 Sousse, Tunisia
-- 💼 Open to opportunities in VR/AR, Game Development & 3D Modeling
+- 💼 Open to opportunities in VR, Game Development & 3D Modeling
 
 ---
 
