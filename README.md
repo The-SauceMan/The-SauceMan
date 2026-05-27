@@ -6,16 +6,17 @@
 
 ---
 
-## 🛠️ Skills
+| Category | Technology | Level |
+|----------|------------|-------|
+| **Game Engines** | Unity (VR Engineering, Level Design) | 🟡 Basic |
+| **3D Modeling** | Blender (Modeling, Shading) | 🟡 Basic |
+| **Programming** | C# | 🟡 Basic |
+| | JavaScript (Three.js) | 🟡 Basic |
+| | Python | 🟡 Basic |
+| | C | 🟡 Basic |
+| | Java | 🟡 Basic |
 
-| Category | Technologies |
-|----------|--------------|
-| **Game Engines** | Unity (VR Engineering, Level Design) |
-| **3D Modeling** | Blender (Modeling, Shading) |
-| **Programming** | C#, JavaScript (Three.js), Python, C, Java |
-| **Languages** | Arabic (Native), English (Fluent), French (Conversational), German (Elementary) |
-
----
+> 🟡 Basic experience / Still learning — actively improving every day.
 
 ## 🚀 Featured Projects
 
