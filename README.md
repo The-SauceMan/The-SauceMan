@@ -9,21 +9,21 @@
 | Category | Technology | Level |
 |----------|------------|-------|
 | **Game Engines** | Unity (VR Engineering, Level Design) | ⚙️ Competent |
-| **3D Modeling** | Blender (Modeling, Shading) | 🟡 Basic |
-| **Programming** | C# | 🟡 Basic |
-| **Other**| JavaScript (Three.js)/ Python/ C/ Java  | 🟡 Basic |
+| **3D Modeling** | Blender (Modeling, Shading) | 🟡 Still Improving |
+| **Programming** | C# | 🟡 Still Improving |
+| **Other**| JavaScript (Three.js)/Mobile Dev/ Python/ C/ Java  | 🟡 Still Improving |
 
-> 🟡 Basic experience / Still learning — actively improving every day.
+> 🟡 Still learning — actively improving every day.
 
 ## 🚀 Featured Projects
 
 ### 🎮 VR Storytelling Game for Children
 *Final Year Project (PFA)* — Unity, VR, Blender
-- Handling assets, animations, map design & VR mechanics
-- 3D modeling & asset creation in Blender
+- Handling assets, animations, map design & VR mechanics in Unity
+- Contribution in 3D modeling & asset creation in Blender
 
 ### 🔫 Simple 2.5D Shooter
-*Unity* — Infinite shooter with 4 difficulty levels & proper sound design
+*Unity* — Infinite shooter with 4 difficulty levels based on ScriptableObjects
 
 ### 📖 Animated Book in Blender
 *Tutorial-based project* — 3D animation exploration
