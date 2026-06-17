@@ -9,9 +9,9 @@
 | Category | Technology | Level |
 |----------|------------|-------|
 | **Game Engines** | Unity (VR Engineering, Level Design) | ⚙️ Competent |
-| **3D Modeling** | Blender (Modeling, Shading) | 🟡 Still Improving |
-| **Programming** | C# | 🟡 Still Improving |
-| **Other**| JavaScript (Three.js)/Mobile Dev/ Python/ C/ Java  | 🟡 Still Improving |
+| **3D Modeling** | Blender (Modeling, Shading) | 🟡 Working Knowledge |
+| **Programming** | C# | 🟡 Working Knowledge |
+| **Other**| JavaScript (Three.js)/Mobile Dev/ Python/ C/ Java  | 🟡 Working Knowledge |
 
 > 🟡 Still learning — actively improving every day.
 
